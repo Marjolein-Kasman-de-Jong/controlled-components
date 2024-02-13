@@ -1,0 +1,20 @@
+div {
+    display: flex;
+    justify-content: space-between;
+}
+
+input {
+    border: 1px solid black;
+}
+
+.textarea {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.checkbox {
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 8px;
+}
